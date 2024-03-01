@@ -1,0 +1,13 @@
+.hed {
+    /* display: flex;
+    justify-content: center; */
+    /* background: linear-gradient(89deg, #343440 0%, #ff931b 100%); */
+    background-color: #343440;
+    
+}
+.dis {
+    padding: 50px;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+}

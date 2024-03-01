@@ -1,0 +1,9 @@
+.color {
+    background-color: #343440;
+    color: goldenrod ; 
+}
+.co {
+    background-color: #3434407e;
+    /* background: linear-gradient(89deg, #444453 0%, #d38f42 100%);; */
+    border-radius: 15px;
+}

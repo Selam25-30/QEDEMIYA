@@ -1,0 +1,15 @@
+.rap {
+    display: flex;
+    justify-content: center;
+}
+.abt {
+    /* display: flex;
+    justify-content: center; */
+    /* background: linear-gradient(89deg, #f10000 0%, #f5b50569 100%);
+ */
+}
+.color {
+    background-color: #343440;
+    color: goldenrod ;
+    
+}
